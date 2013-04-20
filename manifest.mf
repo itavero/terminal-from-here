@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: nl.arnom.netbeans.terminal
+OpenIDE-Module-Localizing-Bundle: nl/arnom/netbeans/terminal/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
